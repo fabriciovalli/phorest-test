@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-DemoApplication<application>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "mainClass": "com.fabriciovalli.phorest.application.DemoApplication",
+      "projectName": "application",
+      "args": ""
+    }
+  ]
+}
